@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="asign" src="http://github.com/Mercedes-Librero/Mercedes-Librero/blob/main/Banner%20Github.png"
+  <img decoding="asign" src="http://github.com/Mercedes-Librero/Mercedes-Librero/blob/main/Banner%20Linkedin%20Geométrico%20Creativo%20Sencillo%20Rojo.png"
     width="800"/>
     </div>
 
