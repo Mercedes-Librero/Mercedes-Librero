@@ -19,7 +19,7 @@
           
 <div class="position-relative">
   <div class="position-absolute top-0 start-0"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" /> </div>
-  <div class="position-absolute top-0 start-50 translate-middle-x"></div>
+  <div class="position-absolute top-0 start-50 translate-middle-x"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" hegth="35" /></div>
   <div class="position-absolute top-0 end-0"></div>
   <div class="position-absolute top-50 start-0 translate-middle-y"></div>
   <div class="position-absolute top-50 start-50 translate-middle"></div>
