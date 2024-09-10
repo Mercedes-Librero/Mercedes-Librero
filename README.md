@@ -2,6 +2,9 @@
   <img decoding="async" src="https://github.com/Mercedes-Librero/Mercedes-Librero/blob/main/1.png" width="800"/>
     </div>
 
+
+## Conocimientos
+
 <!--
 **Mercedes-Librero/Mercedes-Librero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
