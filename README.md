@@ -14,17 +14,23 @@
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"  width="35" hegth="35"/></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" hegth="35" /></div>
           
-<div class="position-relative">
-  <div class="position-absolute top-0 start-0"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" /> </div>
-  <div class="position-absolute top-0 start-50 translate-middle-x"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" hegth="35" /></div>
-  <div class="position-absolute top-0 end-0"></div>
-  <div class="position-absolute top-50 start-0 translate-middle-y"></div>
-  <div class="position-absolute top-50 start-50 translate-middle"></div>
-  <div class="position-absolute top-50 end-0 translate-middle-y"></div>
-  <div class="position-absolute bottom-0 start-0"></div>
-  <div class="position-absolute bottom-0 start-50 translate-middle-x"></div>
-  <div class="position-absolute bottom-0 end-0"></div>
-</div>
+<table>
+  <tr>
+    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" /></th>
+    <th>img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" hegth="35" /></th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
 
 
 
