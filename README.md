@@ -4,7 +4,10 @@
 
 
 ## Conocimientos
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" /></div>
+<div style=" display:flex;gap:10px;gap:10px 20px;column-gap: 20px;row-gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" />
+</div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" hegth="35" /></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" hegth="35"/></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"  width="35" hegth="35"/></div>
@@ -14,18 +17,6 @@
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"  width="35" hegth="35"/></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" hegth="35" /></div>
           
-<table style="border: 1px solid black;">
-  <tr style="border: 1px solid black;" >
-    <td style="border: 1px solid black;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" /></td>
-    <td  style="border: 1px solid black;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" hegth="35" /></td>
-    <td  style="border: 1px solid black;">Germany</td>
-  </tr>
-  <tr style="border: 1px solid black;" >
-    <td  style="border: 1px solid black;">Centro comercial Moctezuma</td>
-    <td  style="border: 1px solid black;">Francisco Chang</td>
-    <td  style="border: 1px solid black;">Mexico</td>
-  </tr>
-</table>
 
 
 
