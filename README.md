@@ -4,7 +4,9 @@
 
 
 ## Conocimientos
-<div style=" display:flex;gap:100px 100px;column-gap: 20px;row-gap: 10px;">
+<!--<div style=" display:flex;gap:100px 100px;column-gap: 20px;row-gap: 10px;"> -->
+<div style=" justify-content:space-between">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" />
 </div>
