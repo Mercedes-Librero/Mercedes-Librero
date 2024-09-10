@@ -18,11 +18,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" hegth="35" />
 </div>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
          <!--
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/VatanAgnihotri.md?plain=1
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Candida18.md?plain=1
 
  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
