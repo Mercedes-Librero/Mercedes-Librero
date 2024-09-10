@@ -4,7 +4,7 @@
 
 
 ## Conocimientos
-<div style=" justify-content:space-between">
+<div style="justify-content:space-between;">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" />
 
