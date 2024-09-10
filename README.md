@@ -19,11 +19,7 @@
 </div>
 
          <!--
-https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/VatanAgnihotri.md?plain=1
-https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Candida18.md?plain=1
 
- 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 **Mercedes-Librero/Mercedes-Librero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
