@@ -4,7 +4,7 @@
 
 
 ## Conocimientos
-<div style=" display:flex;gap:10px;gap:10px 20px;column-gap: 20px;row-gap: 10px;">
+<div style=" display:flex;gap:10px 30px;column-gap: 20px;row-gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" />
 </div>
