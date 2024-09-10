@@ -14,8 +14,8 @@
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"  width="35" hegth="35"/></div>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" hegth="35" /></div>
           
-<table style="border: hidden">
-  <tr style="border: hidden">
+<table style="border-collapse: collapse;">
+  <tr style="border-collapse: collapse;">
     <td style="border: hidden"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" hegth="35" /></td>
     <td>Germany</td>
