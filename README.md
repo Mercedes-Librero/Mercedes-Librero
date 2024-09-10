@@ -15,12 +15,12 @@
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" hegth="35" /></div>
           
 <table style="border: hidden">
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" /></td>
+  <tr style="border: hidden">
+    <td style="border: hidden"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" hegth="35" /></td>
     <td>Germany</td>
   </tr>
-  <tr>
+  <tr style="border: hidden">
     <td>Centro comercial Moctezuma</td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
