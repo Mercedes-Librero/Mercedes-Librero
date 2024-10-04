@@ -3,7 +3,7 @@
 
 
 ## Conocimientos
-<div style="justify-content:space-between;">
+<div style="justify-content:space-between; ">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -13,7 +13,7 @@
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>	
 </div>
 
-<div style="height: px; background-color: #000;margin: 5px;"> adsfasdf</div>
+<div style="height:300px; background-color:#000;margin:5px;"> adsfasdf</div>
 
 
 
