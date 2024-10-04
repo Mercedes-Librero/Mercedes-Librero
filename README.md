@@ -1,9 +1,6 @@
-<em> # Desarrolladora </em>
+# Desarrolladora 
+.Net | BBDD | Full Stack
 
-# Desarrolladora  ## .Net | BBDD | Full Stack
-
-<h1 align="center"> Desarrolladora </h1>
-  
 
 ## Conocimientos
 <div style="justify-content:space-between;">
