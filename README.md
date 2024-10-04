@@ -1,10 +1,6 @@
-<div id="header" align="center">
-  <img decoding="async" src="https://github.com/Mercedes-Librero/Mercedes-Librero/blob/main/1.png" width="800"/>
 # Desarrolladora 
 ## .Net | BBDD | Full Stack
   
-</div>
-
 
 ## Conocimientos
 <div style="justify-content:space-between;">
