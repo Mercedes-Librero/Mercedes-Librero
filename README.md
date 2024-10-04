@@ -3,7 +3,9 @@
 
 
 ## Conocimientos
-```
+
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+
 <div style="justify-content:space-between;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" />
 
@@ -16,5 +18,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"  width="35" hegth="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" hegth="35" />
   </div>
-```
 
