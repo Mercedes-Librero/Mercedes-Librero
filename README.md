@@ -1,12 +1,14 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/Mercedes-Librero/Mercedes-Librero/blob/main/1.png" width="800"/>
+# Desarrolladora 
+## .Net | BBDD | Full Stack
+  
 </div>
 
 
 ## Conocimientos
 <div style="justify-content:space-between;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" hegth="35" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" hegth="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" hegth="35"/>
