@@ -1,5 +1,4 @@
-# Desarrolladora 
-## .Net | BBDD | Full Stack
+# Desarrolladora  ## .Net | BBDD | Full Stack
   
 
 ## Conocimientos
